@@ -9,7 +9,8 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Next.js Chat with OpenAI API',
-  description: 'The application utilizes the power of the OpenAI API to provide dynamic and engaging conversation experiences.',
+  description:
+    'The application utilizes the power of the OpenAI API to provide dynamic and engaging conversation experiences.',
 }
 
 export default function RootLayout({ children }: { children: ReactNode }) {
