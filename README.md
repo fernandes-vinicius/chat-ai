@@ -7,7 +7,7 @@ This repository contains a fast and interactive chat application built using Nex
 **How to Use:**
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `npm install` or `yarn install`.
-3. Get your OpenAI API key from the official OpenAI website and replace the placeholder in the code with your key.
+3. Get your OpenAI API key from the official OpenAI website and replace the placeholder in the code with your key. (.env.local)
 4. Launch the Next.js development server using `npm run dev` or `yarn dev`.
 5. Access the chat application through your web browser at `http://localhost:3000`.
 
